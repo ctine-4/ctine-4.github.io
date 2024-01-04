@@ -1017,6 +1017,16 @@ span{
         font-size: 1.5rem;
     }
 
+    .home-image .img{
+        width: 200px;
+        height: 190px;
+   }
+
+   .home-image{
+        width: 240px;
+        height: 240px;  
+    }
+
     .home-image{
         top: 54%;
     }
