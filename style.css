@@ -1083,5 +1083,9 @@ span{
     .about .btn-box{
         margin-top: 800px;
     }
+
+    .education .title{
+        font-size: 3.2rem;
+    }
 }
 
