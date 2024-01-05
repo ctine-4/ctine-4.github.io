@@ -11,7 +11,7 @@
 
 :root{
     --bg-color: #000b0e;
-    --second-bg-color: #02111b;
+    --second-bg-color: #011d30;
     /*--second-bg-color: #112e42;*/
     /*--text-color: #ededed;
     --main-color: #00abf0;*/
@@ -409,7 +409,7 @@ span{
 /*Read More*/
 .skills{
     padding-bottom: 7rem;
-    background: var(--second-bg-color);
+    background: var(--bg-color);
     color: var(--text-color);
 }
 
@@ -453,7 +453,7 @@ span{
     left: 0;
     width: 0;
     height: 100%;
-    background: var(--bg-color);
+    background: var(--second-bg-color);
     z-index: -1;
     transition: .5s;
 }
